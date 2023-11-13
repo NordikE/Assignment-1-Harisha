@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  font-family: "Agbalumo", cursive;
+  background: linear-gradient(#092036, #efb0c9) no-repeat;
+  background-image: url(/Images/Emma-fjord.jpeg);
+  background-size: 100vw;
+  color: #f10b0b;
+}
+
+h1,
+h2,
+h3,
+h4,
+p {
+  text-shadow: 0 0 1px black;
+}
+.pics {
+  width: 50vw;
+}
